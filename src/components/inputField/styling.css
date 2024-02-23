@@ -1,0 +1,13 @@
+.success {
+    border-radius: 2px;
+    border-color: green;
+}
+
+.error {
+    border-radius: 2px;
+    border-color: red;
+}
+
+.valmess {
+    color: red;
+}
